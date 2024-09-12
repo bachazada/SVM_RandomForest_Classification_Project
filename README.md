@@ -9,8 +9,7 @@ This project implements Support Vector Machines (SVM) and Random Forest models t
 - **`description.txt`**: Contains variable descriptions for the Cleveland dataset.
 
 ## Code Structure
-- **`svm_classification.R`**: Implements SVM with various kernels (polynomial, radial, linear, sigmoid) and uses cross-validation to assess performance. Outputs ROC and Precision-Recall curves.
-- **`random_forest_classification.R`**: Implements a Random Forest classifier for heart disease prediction, including feature importance visualization and performance metrics using ROC curves.
+- **`SVM_RandomForest_Classification_Project.R`**: Implements SVM with various kernels (polynomial, radial, linear, sigmoid) and uses cross-validation to assess performance. Outputs ROC and Precision-Recall curves and Implements a Random Forest classifier for heart disease prediction, including feature importance visualization and performance metrics using ROC curves.
 
 ## Instructions
 
